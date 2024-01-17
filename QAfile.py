@@ -4,3 +4,9 @@ for x in a:
 
 b = "Памагітє"
 print(b)
+
+с = 10
+ if c % 2 == 0:
+     return float(c)
+ else:
+     print("Всьо очєнь плоха")
