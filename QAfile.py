@@ -5,7 +5,7 @@ for x in a:
 b = "Памагітє"
 print(b)
 
-def check_even(c, d="Всё очень плоха"):
+def check_even(c, d="Всьо очєнь плоха"):
     if c % 2 == 0:
         return float(c)
     else:
