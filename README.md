@@ -1,3 +1,3 @@
 # QA-repository-
 cool repository
-That is no funny! :joy:
+That is not funny! :joy:
